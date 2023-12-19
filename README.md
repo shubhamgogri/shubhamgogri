@@ -1,6 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 I'm Shubham, a Data Scientist & Generative AI Enthusiast with Master's Degree from University Of Surrey, UK. I have been applying the Generative AI concepts in the Computer vision and NLP tasks. 
-I am keen on applying the Research papers for the custom usecases. I have done so my modifying the Pix2Pix architecture. I am open to collaborating on projects and innovative/disruptive ideas.
+I am keen on applying the Research papers for the custom usecases. I have done so by modifying the Pix2Pix architecture. I am open to collaborating on projects and innovative/disruptive ideas.
 
 ## 🚀 Skills & Expertise:
 
