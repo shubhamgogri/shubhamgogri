@@ -5,9 +5,9 @@ My expertise lies in developing innovative solutions that leverage cutting-edge 
 ## Jump to Projects
 - [Computer Vision Projects](https://github.com/shubhamgogri#framed_picture-computer-vision)
 
-- [NLP](https://github.com/shubhamgogri#open_book-natural-language-processing)
+- [NLP Projects](https://github.com/shubhamgogri#open_book-natural-language-processing)
 
-- [Speech](https://github.com/shubhamgogri#speaking_head-speech-audio)
+- [Speech (Audio) Projects](https://github.com/shubhamgogri#speaking_head-speech-audio)
 
 - [Machine Learning Projects with End-to-end Pipelines](https://github.com/shubhamgogri#machine-learning--end-to-end-pipelines)
 
