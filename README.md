@@ -116,12 +116,16 @@ Having a range of applications in multiple modalities, projects are categorised 
 - The Data science paradigms such as the ***Feature Engineering, Selection and Extraction*** is carried out on the dataset.   
 
 
+
 ## :speaking_head: Speech (Audio)
 
 ### :heart: Heart Murmur Detection:
 - Heart Murmur Disease Detection: Conducted heart murmur disease detection using real patient audio samples, employing **Digital Signal Processing** techniques via the Librosa library.
 - EDA and Machine Learning: Applied Exploratory Data Analysis (EDA) techniques, feature engineering, and selection methods on **Mel-Spectrograms** and other physiological data. Utilized various machine learning models such as SVM, Random Forest Classifier, and Naïve Bayes Classifier.
 
+## Data Analytics Project
+### [Attendance Report](https://github.com/shubhamgogri/Attendance-Insights?tab=readme-ov-file#attendance-insights)
+- Dashboard with Data analytics of current trends and respective Report of Attendance is created using PowerBI for Hybrid work culture Analysis. 
 
 # 📚 Certificates & Awards:
 - [Master’s Dissertation project](https://github.com/shubhamgogri/Image_Correction_in_SparseView_CT) got nominated for the *Electronic Engineering Industrial Advisory Board MSc Project Prize* by University of Surrey. (results Awaiting)
