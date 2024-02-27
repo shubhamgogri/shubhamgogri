@@ -80,7 +80,7 @@ Having a range of applications in multiple modalities, projects are categorised 
 - Conducted four experiments involving preprocessing, **N-Gram analysis**, sentiment analysis using ***bi-directional LSTM*** models, achieving varied test accuracies ranging from 39.58% to 59.26%. Additionally, employed a CNN with LSTM architecture, achieving 41.09% test accuracy after 20 epochs.
 - Deployed the prototype on **HuggingFace**, developed a web app using **Gradio**, and conducted extensive *API* testing, integrating a **CI/CD pipeline** for continuous deployment and delivery.
 
-#### PDF Retrieval using OpenAI LLM: (RAG)
+#### :page_facing_up: PDF Retrieval using OpenAI LLM: (RAG)
 - Leveraged ***OpenAI's*** Language Model (LLM) and Langchain library to develop a precise PDF retrieval system.
 - Integrated Pinecone Vector Database to optimize document storage and retrieval, enhancing search efficiency and accuracy.
 
@@ -97,6 +97,15 @@ Having a range of applications in multiple modalities, projects are categorised 
 #### :woman: Sport Celebrity Classification:
 - Technologies included **Web scraping**, Utilized ***OpenCV2*** for image processing, NumPy, Pandas, PyWavelets for data manipulation, and Matplotlib for visualizing data and model performance.
 - Model Development & Deployment: Experimented with various models and parameters using GridSearchCV, achieving accuracies of 78% (logistic regression), 76% (SVM), and 70% (random forest). Developed a Flask web app to showcase the classification model, exhibiting skills in web scraping, image processing, data cleaning, optimization, and web development for ML applications.
+
+#### :part_alternation_mark: [Stock Market Analysis](https://github.com/shubhamgogri/StockMarketAnalysis/tree/main) (Time Series)
+- Implemented **Time-Series** technique on the Stocks of Top companies i.e. Apple, Microsoft, Amazon, and Apple.
+- LSTM based network along with other Machine Learning Algorithms are used for this Regression Problem with qualitative analysis.
+
+#### :house: [House Price Prediction](https://github.com/shubhamgogri/House-Price-Prediction-Kagle-Competetion) 
+- Processed continuous dataset and applied **Regression** based Machine learning models. 
+- The Data science paradigms such as the ***Feature Engineering, Selection and Extraction*** is carried out on the dataset.   
+
 
 ### :speaking_head: Speech (Audio)
 
