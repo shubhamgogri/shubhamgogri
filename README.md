@@ -11,6 +11,8 @@ My expertise lies in developing innovative solutions that leverage cutting-edge 
 
 - [Machine Learning Projects with End-to-end Pipelines](https://github.com/shubhamgogri#machine-learning--end-to-end-pipelines)
 
+- [Android Projects](https://github.com/shubhamgogri##-📱Android-Projects)
+
 # 🚀 Skills & Expertise:
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -115,13 +117,29 @@ Having a range of applications in multiple modalities, projects are categorised 
 - Processed continuous dataset and applied **Regression** based Machine learning models. 
 - The Data science paradigms such as the ***Feature Engineering, Selection and Extraction*** is carried out on the dataset.   
 
-
-
 ## :speaking_head: Speech (Audio)
 
 ### :heart: Heart Murmur Detection:
 - Heart Murmur Disease Detection: Conducted heart murmur disease detection using real patient audio samples, employing **Digital Signal Processing** techniques via the Librosa library.
 - EDA and Machine Learning: Applied Exploratory Data Analysis (EDA) techniques, feature engineering, and selection methods on **Mel-Spectrograms** and other physiological data. Utilized various machine learning models such as SVM, Random Forest Classifier, and Naïve Bayes Classifier.
+
+## 📱Android Projects 
+
+### [Assistive Vision](https://github.com/shubhamgogri/Assistive-Vission)
+- Currency Prediction App: Engineered a TensorFlow-based application predicting Indian currency (85%) via pre-trained EfficientDet-Lite0 and Cloth Recognition models (76% on Cloth Patterns). Integrated TF Lite models into an Android app.
+- API Integration & Publication: Integrated ML-Kit's Object Detection, Handwritten Text Recognition APIs, and Google’s TextToSpeech API. Research on the project published in Dickensian Journal.
+
+
+### [Tailor APP](https://github.com/shubhamgogri/TailorApp)
+- Application that serves as a marketplace to customize and shop the fashion wear.
+- Integrates **Firestore** authentication, Firebase Database and Storage.
+- **API** for online payment getway using **RazorPay** is used for digital Payments in India.
+  
+### [Task Scheduler App](https://github.com/shubhamgogri/Task-Scheduler-App)
+- Task Scheduler App is an Android application in which the task can be scheduled and handled according to the priority of the task.
+- It consists of Room Database to handle all the task and set the Due Date of the same.
+- Basically the application is so-called ToDo App that saves the input into the **Room Database**. 
+- The Project focuses on the Room Database and some of the concepts about Handling the listening events accross activities and fragments, enum class and ViewModel class for transfering the data across activites. All sorts of Data Manipulation and Basic **CRUD** i.e. (CREATE,READ, UPDATE, DELETE) are very well performed.
 
 ## Data Analytics Project
 ### [Attendance Report](https://github.com/shubhamgogri/Attendance-Insights?tab=readme-ov-file#attendance-insights)
