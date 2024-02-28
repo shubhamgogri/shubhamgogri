@@ -11,7 +11,7 @@ My expertise lies in developing innovative solutions that leverage cutting-edge 
 
 - [Machine Learning Projects with End-to-end Pipelines](https://github.com/shubhamgogri#machine-learning--end-to-end-pipelines)
 
-- [Android Projects](https://github.com/shubhamgogri##-📱Android-Projects)
+- [Android Projects](https://github.com/shubhamgogri#android-projects)
 
 # 🚀 Skills & Expertise:
 
