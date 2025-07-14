@@ -1,7 +1,7 @@
 # Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
-I'm Shubham, a Data Scientist & Generative AI Enthusiast with Master's Degree from University Of Surrey, UK. Welcome to my GitHub portfolio! I'm a seasoned AI researcher specializing in __NLP, computer vision, and speech processing__, with a particular focus on large language models (LLMs). 
-My expertise lies in developing innovative solutions that leverage cutting-edge technologies to address complex challenges. With a solid foundation in Python, TensorFlow, and PyTorch, I'm adept at implementing state-of-the-art algorithms and models. Additionally, my experience in MLOps ensures seamless deployment and management of machine learning workflows. Explore my projects across NLP, computer vision, and speech processing, and let's collaborate on transforming ideas into impactful solutions!
-See My full Resume here-> [Link](https://drive.google.com/file/d/16lPvsxTk-K0HrBc4ikefrqX7zSOOE1Eu/view?usp=sharing)
+Data Scientist & Generative AI Enthusiast with Master's Degree from University Of Surrey, UK. I'm an AI practitioner specializing in __NLP, computer vision, and speech processing__. 
+With a solid foundation in Python, TensorFlow, and PyTorch, I'm adept at implementing state-of-the-art algorithms and models. Additionally, experience in MLOps ensures seamless deployment and management of machine learning workflows. Explore my projects across NLP, computer vision, and speech processing, and let's collaborate on transforming ideas into impactful solutions!
+Resume -> [Link](https://drive.google.com/file/d/16lPvsxTk-K0HrBc4ikefrqX7zSOOE1Eu/view?usp=sharing)
 
 ## Jump to Projects
 - [Computer Vision Projects](https://github.com/shubhamgogri#framed_picture-computer-vision)
